@@ -31,8 +31,5 @@ In the realm of autonomous vehicles, accurate lane detection is crucial for navi
 2. Driver Assistance Systems
 Modern vehicles often incorporate driver assistance systems to enhance safety. Lane detection can be employed to alert drivers when they unintentionally deviate from their lanes, promoting safer driving practices.
 
-3. Traffic Monitoring
-Lane detection technology can be applied to monitor traffic conditions in real-time. By analyzing lane usage and identifying congestion, transportation authorities can make informed decisions to optimize traffic flow and reduce congestion.
-
 Future Developments
 This project serves as a foundation for future developments in computer vision and image processing. Potential enhancements include advanced lane detection algorithms, integration with additional sensors, and adaptation for complex road scenarios.
