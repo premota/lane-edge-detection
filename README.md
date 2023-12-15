@@ -21,7 +21,7 @@ These functions include
 
 The straight_lane_detection.py script utilizes the preprocessed images or videos to perform real-time straight lane detection. The combination of image preprocessing and lane detection allows for an accurate representation of road lanes in various scenarios.
 
-## Motivation**
+## Motivation
 
 The primary motivation behind this project is to enhance road safety through advanced driver assistance systems (ADAS). By accurately detecting and tracking lanes, this project lays the foundation for applications in autonomous vehicles, driver alert systems, and lane-keeping assistance. Although this project takes a simplified approach to solving the problem, it can also stand as a good foundation in understanding the abilities of computer vision and openCV and how it can be utilized for simple lane detection.
 
